@@ -3,7 +3,8 @@
 En interaktiv visualisering der sammenligner **A*** og **Dijkstra's** pathfinding algoritmer
 
 
-**[Åben live demo her](https://valdemarlarsen02.github.io/dsa-eksamen-astarvsDijkstra/)**
+**[Åben live demo her](https://valdemarlarsen02.github.io/dsa-eksamen-astarvsDijkstra/)** <br>
+Hvis siden ikke loader i første omgang tryk "refresh".
 
 ---
 
