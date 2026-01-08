@@ -3,7 +3,7 @@
 En interaktiv visualisering der sammenligner **A*** og **Dijkstra's** pathfinding algoritmer
 
 
-**🔗 [Åben live demo her](https://your-deployment-url.com)**
+**[Åben live demo her](https://your-deployment-url.com)**
 
 ---
 
