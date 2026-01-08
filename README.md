@@ -1,4 +1,5 @@
 # Pathfinding Algorithm Visualizer
+Lavet af: Valdemar Larsen
 
 En interaktiv visualisering der sammenligner **A*** og **Dijkstra's** pathfinding algoritmer
 
